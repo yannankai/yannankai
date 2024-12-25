@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/user-attachments/assets/2cd54151-ab40-4e6a-8145-56e5fbc57e5b)
+![image](https://github.com/user-attachments/assets/11536301-ca85-4c97-bba3-f43858fbdc8c)
 
 
-My personal pages: https://yannankai.github.io/
+
+
+My personal page: https://yannankai.github.io/
 
 
 
