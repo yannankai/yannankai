@@ -1,4 +1,4 @@
-## Hi there 👋
+## Feel free to contact me 👋
 
 <!--
 **yannankai/yannankai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://github.com/user-attachments/assets/2cd54151-ab40-4e6a-8145-56e5fbc57e5b)
+
+
+My personal pages: https://yannankai.github.io/
+
+
+
