@@ -1,5 +1,4 @@
-## Feel free to contact me 👋
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7118C&width=435&lines=Coder+%26+English+Learner+%26+Coser)](https://git.io/typing-svg)
 <!--
 **yannankai/yannankai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/user-attachments/assets/11536301-ca85-4c97-bba3-f43858fbdc8c)
-
-
-
-
 My personal page: https://yannankai.github.io/
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannankai)
++ ![sumy7](https://komarev.com/ghpvc/?username=yannankai)
 
 
